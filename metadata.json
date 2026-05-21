@@ -1,0 +1,6 @@
+{
+  "name": "씨마스고등학교 급식",
+  "description": "씨마스고등학교 학생들을 위한 오늘의 급식 정보, 식단표 조회, 영양계산 및 프로필 관리 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
